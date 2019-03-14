@@ -1,7 +1,7 @@
 # Texas-hold-em
 A little game written by Python during my college.
 
-## Component
+## Files
 + Main: After running, the computer reads the data of Probability to adjust the strategy of playing cards and play games with the players.
 
 + Train: Data on multiple rounds of points and wins and losses are obtained through self-confrontation.
