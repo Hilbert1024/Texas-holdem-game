@@ -288,7 +288,7 @@ def main():
 	turn=0
 	per_bet=1
 	coin=0
-	path = r'C:\Users\Administrator\Desktop\Python\exercise\one exercise a day\09_Texas_poker\train_final.csv'
+	path = ‘train_data.csv'
 	train = pd.read_csv(path)
 	df1,df2,df3=Probability.DF_pct(train)
 
