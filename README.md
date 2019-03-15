@@ -7,7 +7,7 @@ Then you can obtain a file named 'train_data.csv',this will cost you so much tim
 
 You can play Texas-hold-em with your PC by running 'Main.py' now!Good luck!
 
-(PS:The larger N you choose,the better your PC perform.)
+(PS:The larger N you choose,the better your PC performs.)
 
 ## Files
 + Main: After running, the computer reads the data of Probability to adjust the strategy of playing cards and play games with the players.
