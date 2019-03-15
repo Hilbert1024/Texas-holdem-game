@@ -284,13 +284,13 @@ def main():
 	print('=====Welcome to Texas poker solo system=====')
 
 	#Initialized
-	win=0
-	turn=0
-	per_bet=1
-	coin=0
-	path = ‘train_data.csv'
+	win = 0
+	turn = 0
+	per_bet = 1
+	coin = 0
+	path = 'train_data.csv'
 	train = pd.read_csv(path)
-	df1,df2,df3=Probability.DF_pct(train)
+	df1,df2,df3 = Probability.DF_pct(train)
 
 
 	print('Please input your money:')
