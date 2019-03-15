@@ -116,7 +116,7 @@ def main():
 		df['Pick3'].iloc[t]=state(Allcard1)
 		df['Result'].iloc[t]=results(Allcard1,Allcard2)
 		t+=1
-	df.to_csv(r'C:\Users\Administrator\Desktop\Python\exercise\one exercise a day\09_Texas_poker\train_temp.csv')
+	df.to_csv('train_data.csv')
 
 if __name__ == '__main__':
 	main()
