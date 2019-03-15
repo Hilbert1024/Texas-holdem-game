@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-path = r'C:\Users\Administrator\Desktop\Python\exercise\one exercise a day\09_Texas_poker\train_final.csv'
+path = 'train_data.csv'
 train = pd.read_csv(path)
 def DF_pct(train):
 	train1 = train[['Pick1','Result']]
