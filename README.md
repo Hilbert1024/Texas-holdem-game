@@ -1,8 +1,12 @@
 # Texas-hold-em
 A little game written by Python during my college.
-First run 'Train.py',you can set N that the times of self-confrontation,defalut is N=2000.
-Then we obtain a file named 'train_data.csv'.
+
+Firstly run 'Train.py',you can set N that the times of self-confrontation,defalut is N=2000.
+
+Then you can obtain a file named 'train_data.csv'.
+
 You can play Texas-hold-em with your PC by running 'Main.py' now!Good luck!
+
 (PS:The larger N you choose,the better your PC perform.)
 
 ## Files
