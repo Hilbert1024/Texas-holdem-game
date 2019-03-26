@@ -1,4 +1,4 @@
-# Texas-hold-em
+# Texas holdem game
 A little game written by Python during my college.
 
 1. Run 'Train.py'.  Try to set the value of N which denotes the times of self-confrontation, defalut value is N = 2000.
